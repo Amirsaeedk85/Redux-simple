@@ -1,25 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+// import {useSelector} from 'react-redux';
+// import './app.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
 
-export default App;
+// function App() {
+  // const counter = useSelector((state) => state.counter);
+//   return (
+//     <div>
+//       <h1>Counter App</h1>
+//       <h2>{'counter'}</h2>
+//     </div>
+//   );
+// };
+
+// export default App;
+  
